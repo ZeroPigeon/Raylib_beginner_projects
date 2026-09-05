@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rdr95Z/EJAg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\briha\\OneDrive\\Desktop\\Random Projects\\LearningProjects\\BouncingBall\\BouncingBall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\briha\\.nuget\\packages\\raylib-cs\\8.0.0\\raylib-cs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
