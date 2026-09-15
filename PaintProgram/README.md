@@ -14,11 +14,17 @@ My third Raylib project featuring a basic paint program using different colours 
 Press the left mouse button to start drawing and move the mouse around to draw lines
 
 |  Key  |  Action              |
+
 |  D    |  Move One Colour Up  |
+
 |  A    |  Move One Colour Down|
+
 |  E    |  Enable Eraser       |
+
 | Space |  Clear entire Screen |
+
 |  >    |  Increases Brush Size|
+
 |  <    |  Decreases Brush Size|
 
 ## What I Learned
